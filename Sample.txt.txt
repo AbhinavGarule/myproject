@@ -1,1 +1,3 @@
-Yay, I ma exploring GitHub. A step toward GSoc.
+Yay, I m exploring GitHub. A step toward GSoc.
+
+Prof. Nandeep Mali is conducting session on Git. 
